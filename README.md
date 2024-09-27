@@ -14,4 +14,5 @@ configuraciones básicas para trabajar con el frameworb de Django
 - 11 Creando el proyecto --> django-admin startproject webagencia_proy .
 - 12 realizar migracion a proyecto --> python manage.py migrate
 - 13 ejecutar servidor web --> python manage.py runserver
+
 Me trabajo el proyecto
